@@ -42,7 +42,7 @@ input.onButtonPressed(Button.B, function () {
         basic.clearScreen()
     }
 })
-function reiniciar() {
+function reiniciar () {
     a = 0
     b = 0
     x = 4
